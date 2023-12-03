@@ -1,4 +1,4 @@
-# WebPack App , Babel , ESLint
+# шаблон WebPack , Babel , ESLint
 
 Мой шаблон, включающий в себя WebPack, Babel и ESLint + правильную структуру папок.
 
